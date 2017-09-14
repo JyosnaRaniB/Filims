@@ -1,0 +1,9 @@
+{
+  "name": "film",
+  "app_id": "6b09f651",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+  
+}

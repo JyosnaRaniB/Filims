@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>{{ film.title }}</ion-title>
+    <ion-buttons end>
+    <button ion-button icon-only (click)="doLogout()">
+      <ion-icon name="exit"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+ 
+<ion-content >
+  
+  <ion-card>
+    <ion-img width="300" height="200" src="{{film.imageUrl2}}"></ion-img>
+    <ion-card-title>
+     Description
+      </ion-card-title>
+    <ion-card-content>
+     {{ film.description }}
+    </ion-card-content>
+    <ion-card-title>Release Date</ion-card-title>
+     <p>{{ film.releaseDate }}</p>   
+   <ion-card-title>  Director</ion-card-title>     
+     <p>
+      {{ film.director }}
+     </p>
+    <ion-card-title>
+     Cast
+      </ion-card-title>
+     <p>
+      {{ film.cast }}
+     </p>
+  </ion-card>
+</ion-content>

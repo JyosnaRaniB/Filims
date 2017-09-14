@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Annabelle",
+        "description": "Former toy maker Sam Mullins and his wife, Esther, are happy to welcome a nun and six orphaned girls into their California farmhouse. Years earlier, the couple's 7-year-old daughter Annabelle died in a tragic car accident. Terror soon strikes when one child sneaks into a forbidden room and finds a seemingly innocent doll that appears to have a life of its own.",
+        "releaseDate": "August 11, 2017 (USA)",
+        "director": "David Sandberg",
+        "cast":["Stephanie" ,"Sigman", "Miranda Otto","Talitha Bateman"],
+        "imageUrl1":"./assets/images/Annabelle-1.jpg",
+        "imageUrl2" :"./assets/images/annabelle-2.jpg"
+        
+    },
+    {
+       "title": "Transformers: The Last Knight",
+        "description": "Humans are at war with the Transformers, and Optimus Prime is gone. The key to saving the future lies buried in the secrets of the past and the hidden history of Transformers on Earth. Now, it's up to the unlikely alliance of inventor Cade Yeager, Bumblebee, an English lord and an Oxford professor to save the world.",
+        "releaseDate": "June 22, 2017 (GA)",
+        "director": "Michael Bay",
+        "cast":["Mark Wahlberg" ,"SiIsabela Moner", "Laura Haddock","Anthony Hopkins"],
+        "imageUrl1":"./assets/images/transformers-2.jpg",
+        "imageUrl2" :"./assets/images/transformers.jpg"
+    },
+    {
+       "title": "Despicable Me 3",
+        "description": "The mischievous Minions hope that Gru will return to a life of crime after the new boss of the Anti-Villain League fires him. Instead, Gru decides to remain retired and travel to Freedonia to meet his long-lost twin brother for the first time. The reunited siblings soon find themselves in an uneasy alliance to take down the elusive Balthazar Bratt, a former 1980s child star who seeks revenge against the world.",
+        "releaseDate": "June 14, 2017 (Philippines)",
+        "director": "Pierre Coffin",
+        "cast":["Steve Carell" ,"Trey Parker", "Kristen Wiig","Pierre Coffin"],
+        "imageUrl1":"./assets/images/despicable-1.jpg",
+        "imageUrl2" :"./assets/images/despicable-2.jpg"
+    },
+    {
+       "title": "Sherlock Holmes",
+        "description": "When a string of brutal murders terrorizes London, it doesn't take long for legendary detective Sherlock Holmes (Robert Downey Jr.) and his crime-solving partner, Dr. Watson (Jude Law), to find the killer, Lord Blackwood (Mark Strong). A devotee of the dark arts, Blackwood has a bigger scheme in mind, and his execution plays right into his plans. The game is afoot when Blackwood seems to rise from the grave, plunging Holmes and Watson into the world of the occult and strange technologies.",
+        "releaseDate": "December 25, 2009 (USA)",
+        "director": "Guy Ritchie",
+        "cast":["Robert Downey Jr. " ," Jude Law", "Rachel McAdams","Kelly Reilly"],
+        "imageUrl1":"./assets/images/sherlockHolmes-1.jpg",
+        "imageUrl2" :"./assets/images/sherlockHolmes-2.jpg"
+    },
+    {
+        "title": "Kung Fu Panda 3",
+        "description": "Living large and loving life, Po (Jack Black) realizes that he has a lot to learn if he's going to fulfill the next challenge from his beloved instructor (Dustin Hoffman). After reuniting with his long-lost father (Bryan Cranston), Po must transition from student to teacher and train a group of fun-loving, clumsy pandas to become martial-arts fighters. Together, the kung-fu brethren unite to take on the evil Kai (J.K. Simmons), a supernatural warrior who becomes stronger with each battle.",
+        "releaseDate": "January 29, 2016 (USA)",
+        "director": "Jennifer Yuh Nelson",
+        "cast":["Jack Black" ,"Angelina Jolie", "Jackie Chan","Bryan Cranston"],
+        "imageUrl1":"./assets/images/kungfu-1.jpg",
+        "imageUrl2" :"./assets/images/kungfu-2.jpg"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "description": "Frank Abagnale, Jr. (Leonardo DiCaprio) worked as a doctor, a lawyer, and as a co-pilot for a major airline -- all before his 18th birthday. A master of deception, he was also a brilliant forger, whose skill gave him his first real claim to fame: At the age of 17, Frank Abagnale, Jr. became the most successful bank robber in the history of the U.S. FBI Agent Carl Hanratty (Tom Hanks) makes it his prime mission to capture Frank and bring him to justice, but Frank is always one step ahead of him.",
+        "releaseDate": "December 25, 2002 (USA)",
+        "director": "Steven Spielberg",
+        "cast":["Leonardo DiCaprio" ,"Tom Hanks", "Amy Adams","Christopher Walken"],
+        "imageUrl1":"./assets/images/catchmeifyoucan-1.jpg",
+        "imageUrl2" :"./assets/images/catchmeifyoucan-2.jpg"
+    }
+]

@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Login</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+<div *ngIf="showLogin">
+    <ion-item>
+      <ion-label floating>Username</ion-label>
+      <ion-input  type="username" [(ngModel)]="username"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>Password</ion-label>
+      <ion-input  type="password"  [(ngModel)]="password"></ion-input>
+    </ion-item>
+  </div>
+
+
+  <button ion-button color="primary" full (click)="doLogin()">Login</button>
+</ion-content>

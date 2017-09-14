@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Film Details
+    </ion-title>
+    <ion-buttons end>
+    <button ion-button icon-only (click)="doLogout()">
+      <ion-icon name="exit"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+ <ion-list no lines>
+   <button ion-item *ngFor="let film of films" (click)="openDetails(film)">
+    <ion-item>   
+     
+    <ion-thumbnail item-start>
+      <img src={{film.imageUrl1}}>
+    </ion-thumbnail>
+    <h2>{{ film.title }}</h2>     
+  
+   </ion-item>
+   </button>
+  </ion-list>
+</ion-content>
